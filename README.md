@@ -10,7 +10,7 @@ Herramienta para disfrazar una URL.
 
 git clone https://github.com/acurratemyglock/phish-costume.git
 
-pip3 install requests
+pip3 install colorama
 o simplemente instale los rerquisitos.
 
 cd phish-costume
