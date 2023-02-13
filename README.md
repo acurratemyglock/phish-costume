@@ -20,7 +20,6 @@ python3 phish.costume.py
 
 Si tiene algun error me contactan por instagram: payl0add
 
-TIKTOK: bye.zys 
 
 
 
